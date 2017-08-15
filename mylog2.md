@@ -7,7 +7,16 @@
 **Thoughts:** As simple as they variables and operators are, they are very important as they are the basis of JavaScript logic, in my thinking. I think it is also very important to **PLAN** your time effciently because you will easily miss the time for your coding and before you know it, you will go **DAYS** without coding. I'm glad I got back quickly and not have given too much time. I will continue daily to learn and build projects as that is the promise I made to myself.
 
 
-**Link(s) to work**
+**Link(s) to work:**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 2. [Personal Portfolio Page](https://codepen.io/GabeLep/pen/zomQWV)
+
+### Day 2: 15 August 2017
+
+**Today's Progress:** I began with some of the JacaScript learning at it was difficult at first but I go through it. 
+
+**Thoughts:** Felt better with today. I was struggling to get through some of the JavaScript but I decided to slow down, think about the problem and what I want to see and then it became easier. This reminds me that you cannot rush through a problem but have to take the time to creatively think about it and for it to make sense, even if you have to write it on paper first before creating the code for it.
+
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
