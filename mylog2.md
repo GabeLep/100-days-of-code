@@ -20,3 +20,12 @@
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
+### Day 3: 16 August 2017
+
+**Today's Progress:** Completed some fCC learning on Arrays, including *.push(), .pop.(), .shift() and .unshift()*. 
+
+**Thoughts:** Really struggled in the beginning but I managed to get through it because I decided to stick it out, no matter how difficult the problem may look. Also learnt that I learn better when I write things on paper first before I type them out. I guess that is how I am wired and I enjoy it. I have an fCC booklet FULL of notes to help me remember and it has really become something I cherish.
+
+**Consistency is key!!!**
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
