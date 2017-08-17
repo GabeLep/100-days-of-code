@@ -29,3 +29,12 @@
 **Consistency is key!!!**
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 4: 17 August 2017
+
+**Today's Progress:** Learned more JS regarding returns. global and local scope and did a few functions which are pretty amazing.
+
+**Thoughts:** Even though I am extremely exhausted after this day, I still kept to my promise to myself to complete at least an hour of coding and to keep my momentum going.
+I felt really good but not much was going in because of the mental fatigue but I am glad I did do the hour at the least.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
