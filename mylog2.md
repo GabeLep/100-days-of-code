@@ -38,3 +38,13 @@
 I felt really good but not much was going in because of the mental fatigue but I am glad I did do the hour at the least.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 5: 18 August 2017
+
+**Today's Progress:** Worked through some comparisons using operators such as *Greater Than, Equals, Strict Equals, Inequality and Strict Inequality*. Also learned about the if statements (the basic one) and how you can have two if statements that are in the same function.
+
+**Thoughts:** There is definitely a lot to learn, process and do, but the momentum is definitely there and I would be a fool to lose it. I have been writting more before I code and that helps me think of the structure of the code first as well as learn the correct syntax before applying it to an editor. I am looking forward to building my projects soon as I have a lot more confidence in my ability but will have to first test that out by actually building something.
+Exciting times ahead.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
