@@ -48,3 +48,11 @@ Exciting times ahead.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
+### Day 6: 19 August 2017
+
+**Today's Progress:** Worked through fCC JavaScript and the focs was on *LOGICAL AND **(&&)** and LOGICAL OR **(||)*** operators.
+
+**Thoughts:** Learned a lot about thinking systematically when writing code and thinking the problem out loud then on paper. It is also important to read the instructions VERY well as a single letter can cause your code not to return correctly. I feel great and a little more confident that yesterday as I managed to write an if statement without the aid of any resources and is a major achievement for me.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
