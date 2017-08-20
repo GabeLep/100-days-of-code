@@ -56,3 +56,10 @@ Exciting times ahead.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
+### Day 7: 20 August 2017
+
+**Today's Progress:** Completed *Else If Statements, Switch Statements and Replacing If Else Chains with a Switch Statement*. 
+
+**Thoughts:** I love how my thinking is changing as I am now thinking of the problem in its most basic form first and then applying logic to that problem. I was able to complete the *Golf Game* without seekign assistance and by thinking the problem out loud. That REALLY boosted my confidence and makes me want to return and learn even more.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
