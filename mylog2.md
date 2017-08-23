@@ -63,3 +63,17 @@ Exciting times ahead.
 **Thoughts:** I love how my thinking is changing as I am now thinking of the problem in its most basic form first and then applying logic to that problem. I was able to complete the *Golf Game* without seekign assistance and by thinking the problem out loud. That REALLY boosted my confidence and makes me want to return and learn even more.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 8: 21 August 2017
+
+**Today's Progress:** Did not do much coding as I heard terrible news and could not focus at all. I managed to complete 30 minutes of coding today.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 9: 23 August 2017
+
+**Today's Progress:** Began with Objects today with some dot and bracket notation. Yesterday I was at a coding meet up and we began our first project as a team. Skipped yesterday but still did some coding with the team.
+
+**Thoughts:** Taking it super slow as I have to prepare for more sadness on Saturday but I am making progress nonetheless. Really loving JavaScript and what it is capable of.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
