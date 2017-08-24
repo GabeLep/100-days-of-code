@@ -77,3 +77,11 @@ Exciting times ahead.
 **Thoughts:** Taking it super slow as I have to prepare for more sadness on Saturday but I am making progress nonetheless. Really loving JavaScript and what it is capable of.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 10: 24 August 2017
+
+**Today's Progress:** Did some JavaScript learning on fCC. Went through a few of the objects but was struggling with *Using Objects for Lookups* but I finally got through that over some time.
+
+**Thoughts:** Learning the syntax is the easy part of any language. Like learning words of a new language. The critical part is learning to think like a programmer and I can see I am slowly developing that skill which is very necessary but I also know that it takes time to develop it. This week has been a difficult one but I have managed to stick to my challenge and to code daily.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
