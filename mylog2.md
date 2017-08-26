@@ -85,3 +85,20 @@ Exciting times ahead.
 **Thoughts:** Learning the syntax is the easy part of any language. Like learning words of a new language. The critical part is learning to think like a programmer and I can see I am slowly developing that skill which is very necessary but I also know that it takes time to develop it. This week has been a difficult one but I have managed to stick to my challenge and to code daily.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+
+### Day 11: 25 August 2017
+
+**Today's Progress:** Did some *Testing Objects for Properties* and it took me a while to grasp it as I was preparing to go to the funeral in the morning. Focus was seriously lacking.
+
+**Thoughts:** It is difficult to concentrate when you have lost a friend to a senseless crime but I had to get some work in and I did the best I could. Each day is getting better and my coding is matching up to my feelings. 
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 12: 26 August 2017
+
+**Today's Progress:** Finished with some *Accessing Nested Objects* and *Accessing Nested Arrays*. I will be beginning with loops tomorrow.
+
+**Thoughts:** Was at my friend's funeral today and it was **EXTREMELY painful** but I need to be strong as his unexpected death taught me a lot. I will push harder and make time for those around me.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
