@@ -102,3 +102,11 @@ Exciting times ahead.
 **Thoughts:** Was at my friend's funeral today and it was **EXTREMELY painful** but I need to be strong as his unexpected death taught me a lot. I will push harder and make time for those around me.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 13: 27 August 2017
+
+**Today's Progress:** Did some fCC JavaScript Loops, looking ar *For Loops* and a *While Loop*.
+
+**Thoughts:** It is all about the conditions that a passed through the loop that make it powerful. The fact that one can nest loops within each other makes them even more powerful. I will have to make more use of them to fully understand them and how to use them in a use case. The challenges are definitely getting more advanced but I look forward to the challenge each day and to be able to build powerful tools with the knowledge that I am currently gaining.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
