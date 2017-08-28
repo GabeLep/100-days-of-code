@@ -110,3 +110,11 @@ Exciting times ahead.
 **Thoughts:** It is all about the conditions that a passed through the loop that make it powerful. The fact that one can nest loops within each other makes them even more powerful. I will have to make more use of them to fully understand them and how to use them in a use case. The challenges are definitely getting more advanced but I look forward to the challenge each day and to be able to build powerful tools with the knowledge that I am currently gaining.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 14: 28 August 2017
+
+**Today's Progress:** Almost done with Basic JavaScript. Learned how to do a *Profile LookUp* and how to *Generate random numbers (both fractions and whole numbers*. 
+
+**Thoughts:** The more I do JavaScript, the more I think of how I will be able to use it in real life solutions for things around me. It is a really powerful language. Each day gets better and I am learning not to doubt my thinking and how I frame the solution in my mind because more times than ever I am correct.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
