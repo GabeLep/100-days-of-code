@@ -118,3 +118,11 @@ Exciting times ahead.
 **Thoughts:** The more I do JavaScript, the more I think of how I will be able to use it in real life solutions for things around me. It is a really powerful language. Each day gets better and I am learning not to doubt my thinking and how I frame the solution in my mind because more times than ever I am correct.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 15: 29 August 2017
+
+**Today's Progress:** Completed *Basic JavaScript* on fCC and began with some *Object Oriented and Functional Programming*. 
+
+**Thoughts:** I did not know much about OOP until I did it today and I **LOVE** it. I find it a lot more user-friendly but I do realise that it also has its places like all the functions, if and else if statements. A lot to learn and I am excited to learn it and put it into practice.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
