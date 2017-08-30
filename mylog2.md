@@ -4,7 +4,7 @@
 
 **Today's Progress:** Restarted my count for the #100DaysOfCode because I had missed Friday and Sunday. I decided to stick to the rules and rather restart instead of cheating myself in the end. I got through the basics of JavaScript variables and operators. Before restarting, I did complete my fCC Personal Portfolio Page.
 
-**Thoughts:** As simple as they variables and operators are, they are very important as they are the basis of JavaScript logic, in my thinking. I think it is also very important to **PLAN** your time effciently because you will easily miss the time for your coding and before you know it, you will go **DAYS** without coding. I'm glad I got back quickly and not have given too much time. I will continue daily to learn and build projects as that is the promise I made to myself.
+**Thoughts:** As simple as they variables and operators are, they are very important as they are the basis of JavaScript logic, in my thinking. I think it is also very important to **PLAN** your time efficiently because you will easily miss the time for your coding and before you know it, you will go **DAYS** without coding. I'm glad I got back quickly and not have given too much time. I will continue daily to learn and build projects as that is the promise I made to myself.
 
 
 **Link(s) to work:**
@@ -13,7 +13,7 @@
 
 ### Day 2: 15 August 2017
 
-**Today's Progress:** I began with some of the JacaScript learning at it was difficult at first but I go through it. 
+**Today's Progress:** I began with some of the JavaScript learning at it was difficult at first but I go through it. 
 
 **Thoughts:** Felt better with today. I was struggling to get through some of the JavaScript but I decided to slow down, think about the problem and what I want to see and then it became easier. This reminds me that you cannot rush through a problem but have to take the time to creatively think about it and for it to make sense, even if you have to write it on paper first before creating the code for it.
 
@@ -43,7 +43,7 @@ I felt really good but not much was going in because of the mental fatigue but I
 
 **Today's Progress:** Worked through some comparisons using operators such as *Greater Than, Equals, Strict Equals, Inequality and Strict Inequality*. Also learned about the if statements (the basic one) and how you can have two if statements that are in the same function.
 
-**Thoughts:** There is definitely a lot to learn, process and do, but the momentum is definitely there and I would be a fool to lose it. I have been writting more before I code and that helps me think of the structure of the code first as well as learn the correct syntax before applying it to an editor. I am looking forward to building my projects soon as I have a lot more confidence in my ability but will have to first test that out by actually building something.
+**Thoughts:** There is definitely a lot to learn, process and do, but the momentum is definitely there and I would be a fool to lose it. I have been writing more before I code and that helps me think of the structure of the code first as well as learn the correct syntax before applying it to an editor. I am looking forward to building my projects soon as I have a lot more confidence in my ability but will have to first test that out by actually building something.
 Exciting times ahead.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
@@ -60,7 +60,7 @@ Exciting times ahead.
 
 **Today's Progress:** Completed *Else If Statements, Switch Statements and Replacing If Else Chains with a Switch Statement*. 
 
-**Thoughts:** I love how my thinking is changing as I am now thinking of the problem in its most basic form first and then applying logic to that problem. I was able to complete the *Golf Game* without seekign assistance and by thinking the problem out loud. That REALLY boosted my confidence and makes me want to return and learn even more.
+**Thoughts:** I love how my thinking is changing as I am now thinking of the problem in its most basic form first and then applying logic to that problem. I was able to complete the *Golf Game* without seeking assistance and by thinking the problem out loud. That REALLY boosted my confidence and makes me want to return and learn even more.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
@@ -105,7 +105,7 @@ Exciting times ahead.
 
 ### Day 13: 27 August 2017
 
-**Today's Progress:** Did some fCC JavaScript Loops, looking ar *For Loops* and a *While Loop*.
+**Today's Progress:** Did some fCC JavaScript Loops, looking at *For Loops* and a *While Loop*.
 
 **Thoughts:** It is all about the conditions that a passed through the loop that make it powerful. The fact that one can nest loops within each other makes them even more powerful. I will have to make more use of them to fully understand them and how to use them in a use case. The challenges are definitely getting more advanced but I look forward to the challenge each day and to be able to build powerful tools with the knowledge that I am currently gaining.
 
@@ -124,5 +124,13 @@ Exciting times ahead.
 **Today's Progress:** Completed *Basic JavaScript* on fCC and began with some *Object Oriented and Functional Programming*. 
 
 **Thoughts:** I did not know much about OOP until I did it today and I **LOVE** it. I find it a lot more user-friendly but I do realise that it also has its places like all the functions, if and else if statements. A lot to learn and I am excited to learn it and put it into practice.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 16: 30 August 2017
+
+**Today's Progress:** Completed *Object Oriented and Functional Programming* on fCC and will be beginning with Algorithm challenges as from tomorrow. 
+
+**Thoughts:** I enjoyed the OOP but I am very nervous about the Algorithms as I do not know what to expect and it seems very daunting. I look forward to tackling it all, one day at a time.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
