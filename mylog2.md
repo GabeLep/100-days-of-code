@@ -134,3 +134,11 @@ Exciting times ahead.
 **Thoughts:** I enjoyed the OOP but I am very nervous about the Algorithms as I do not know what to expect and it seems very daunting. I look forward to tackling it all, one day at a time.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 17: 31 August 2017
+
+**Today's Progress:** Begun *Algorithms* on fCC.
+
+**Thoughts:** Wow. I did not expect what I faced. It was a lot more than I thought in terms of processing and thinking and I was not ready but I have to keep my head up high and do the best I can. Thinking like a programmer is NOT easy. It is a skill that has to be obtained over time and it will certainly take time to cultivate it and to hone it.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
