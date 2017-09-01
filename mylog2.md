@@ -142,3 +142,13 @@ Exciting times ahead.
 **Thoughts:** Wow. I did not expect what I faced. It was a lot more than I thought in terms of processing and thinking and I was not ready but I have to keep my head up high and do the best I can. Thinking like a programmer is NOT easy. It is a skill that has to be obtained over time and it will certainly take time to cultivate it and to hone it.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 18: 1 September 2017
+
+**Today's Progress:** Continued with *Algorithms* on fCC.
+
+**Thoughts:** They are still not easy but the thinking is getting easier. Now I can articulate the problem better but I am still in need of researching a lot more before I can work out the problem and the solution. It seems a lot better to say it out loud first but also to write down the code while saying it out loud. I may sound odd to other but this really does help.
+
+Tomorrow I continue.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
