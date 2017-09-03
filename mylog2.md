@@ -160,3 +160,11 @@ Tomorrow I continue.
 **Thoughts:** The Algorithms help with the thinking. It is just knowing which functions to use as I have not yet used some of them like the *.slice()* function but my thinking is getting a lot better. I am now able to articulate what it is I want to do and the steps to do it. It is just learning to write the code to make it happen. Today was a good day.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 20: 3 September 2017
+
+**Today's Progress:** Continued with *Algorithms* on fCC.
+
+**Thoughts:** Not really focused today as it is my anniversary mini-getaway. The Algorithms today needed simple solutions but we do tend to over-complicate the solution. It's learning what methods to use when and how to either chain them or use them separately. It's all a learning curve.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
