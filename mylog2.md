@@ -168,3 +168,11 @@ Tomorrow I continue.
 **Thoughts:** Not really focused today as it is my anniversary mini-getaway. The Algorithms today needed simple solutions but we do tend to over-complicate the solution. It's learning what methods to use when and how to either chain them or use them separately. It's all a learning curve.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 21: 4 September 2017
+
+**Today's Progress:** Continued with *Algorithms* on fCC.
+
+**Thoughts:** Not feeling it today but I still managed to complete 2 Algorithm challenges. Just not where I should be mentally and need a new strategy for this week.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
