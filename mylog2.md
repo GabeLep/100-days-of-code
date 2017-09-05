@@ -176,3 +176,12 @@ Tomorrow I continue.
 **Thoughts:** Not feeling it today but I still managed to complete 2 Algorithm challenges. Just not where I should be mentally and need a new strategy for this week.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 22: 5 September 2017
+
+**Today's Progress:** Continued with *Algorithms* on fCC.
+
+**Thoughts:** I am feeling a little discouraged with the algorithms as I still find them difficult to fully comprehend. I feel like I am rushing the process and that may be the reason I am feeling the way that I am but this feeling will pass and I will get back to the feeling I started with. I have also realised that feelings can be misleading and I need to remember that I have a long to go before fully understanding JavaScript and need to be patient with myself.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
