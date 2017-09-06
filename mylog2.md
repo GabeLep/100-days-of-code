@@ -185,3 +185,10 @@ Tomorrow I continue.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
+### Day 23: 6 September 2017
+
+**Today's Progress:** Continued with *Algorithms* on fCC and read up on some methods from **[dive.into.javascript](http://www.diveintojavascript.com/)**.
+
+**Thoughts:** Feeling better about the JavaScript. Just have to read up more and DO more with JavaScript so that I am practising the different methods and callbacks more. I have been seriously hard on myself and need to be a little more gentle and know that everyday is better than the last as I am learning new concepts daily. I believe that I should read up more on methods and callbacks so that I know when to use them. I will be doing more exercises and tutorials on the matter.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
