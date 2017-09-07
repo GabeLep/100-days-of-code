@@ -192,3 +192,11 @@ Tomorrow I continue.
 **Thoughts:** Feeling better about the JavaScript. Just have to read up more and DO more with JavaScript so that I am practising the different methods and callbacks more. I have been seriously hard on myself and need to be a little more gentle and know that everyday is better than the last as I am learning new concepts daily. I believe that I should read up more on methods and callbacks so that I know when to use them. I will be doing more exercises and tutorials on the matter.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 24: 6 September 2017
+
+**Today's Progress:** Finally completed the Algorithms.
+
+**Thoughts:** They were not that easy but they were worth the learning. Still have a long way to go but I have also come a long from 24 days ago. I will be going to a wedding this weekend so I have to make some time to study and code. I will be doing a mixture of coding and reading as from tomorrow to maximise all that I can learn before going into building my first project. I feel a world better than I did when I first started with Algorithms but I will be going through more examples to get a better understanding of the concepts.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
