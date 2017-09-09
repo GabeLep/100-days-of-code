@@ -193,10 +193,18 @@ Tomorrow I continue.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
 
-### Day 24: 6 September 2017
+### Day 24: 7 September 2017
 
 **Today's Progress:** Finally completed the Algorithms.
 
 **Thoughts:** They were not that easy but they were worth the learning. Still have a long way to go but I have also come a long from 24 days ago. I will be going to a wedding this weekend so I have to make some time to study and code. I will be doing a mixture of coding and reading as from tomorrow to maximise all that I can learn before going into building my first project. I feel a world better than I did when I first started with Algorithms but I will be going through more examples to get a better understanding of the concepts.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 25: 8 September 2017
+
+**Today's Progress:** Began with AJAX APIs and JSON on fCC.
+
+**Thoughts:** I was extremely exhausted after a 5 hour drive to a friend's wedding and did a little bit of work. I could hardly keep my eyes opened but at least I did some work. I also listened to Jason Sonmez with a few things he was discussing and then completely passed out.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
