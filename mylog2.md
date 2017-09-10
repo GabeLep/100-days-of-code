@@ -208,3 +208,11 @@ Tomorrow I continue.
 **Thoughts:** I was extremely exhausted after a 5 hour drive to a friend's wedding and did a little bit of work. I could hardly keep my eyes opened but at least I did some work. I also listened to Jason Sonmez with a few things he was discussing and then completely passed out.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 26: 9 September 2017
+
+**Today's Progress:** Continued with more JSON on fCC.
+
+**Thoughts:** I put in about a half hour because of the wedding but it was definitely worth the time. I can see that what I am learning is a build up to the projects that I will be building in the newt few days. I am looking forward to building them and researching HOW to build the different components.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
