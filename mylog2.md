@@ -216,3 +216,19 @@ Tomorrow I continue.
 **Thoughts:** I put in about a half hour because of the wedding but it was definitely worth the time. I can see that what I am learning is a build up to the projects that I will be building in the newt few days. I am looking forward to building them and researching HOW to build the different components.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 27: 10 September 2017
+
+**Today's Progress:** Completed JSON on fCC.
+
+**Thoughts:** Got through the last bits of JSON or fCC and was feeling good despite my exhaustion from travelling back from Bloemfontein.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 28: 12 September 2017
+
+**Today's Progress:** Research on Random Quote Generator.
+
+**Thoughts:** Began research as it is important to first find out what it is you want to build and how to build it in the best way. Then get all my files in order then begin with the coding. Also skipped my first day since I began without doing ANY coding whatsoever. Felt really weird though.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
