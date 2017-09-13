@@ -232,3 +232,11 @@ Tomorrow I continue.
 **Thoughts:** Began research as it is important to first find out what it is you want to build and how to build it in the best way. Then get all my files in order then begin with the coding. Also skipped my first day since I began without doing ANY coding whatsoever. Felt really weird though.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 29: 13 September 2017
+
+**Today's Progress:** Research on Random Quote Generator.
+
+**Thoughts:** Continued with more research on creating the random quote generator and reading up on some of the methods that are used and also looked at some examples of what others look like and looked at how they built it by reading their code.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
