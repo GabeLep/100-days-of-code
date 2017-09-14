@@ -240,3 +240,11 @@ Tomorrow I continue.
 **Thoughts:** Continued with more research on creating the random quote generator and reading up on some of the methods that are used and also looked at some examples of what others look like and looked at how they built it by reading their code.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 30: 14 September 2017
+
+**Today's Progress:** Final chnages to my Random Quote Generator.
+
+**Thoughts:** Continued to work on my RQG and will finalise it tomorrow. It is coming along very well. Kept it as simple as possible. Today was a good day.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
