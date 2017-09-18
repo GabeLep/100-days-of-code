@@ -243,8 +243,40 @@ Tomorrow I continue.
 
 ### Day 30: 14 September 2017
 
+**Today's Progress:** Final changes to my Random Quote Generator.
+
+**Thoughts:** Continued to work on my RQG and will finalise it tomorrow. It is coming along very well. Kept it as simple as possible. Today was a good day.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 31: 15 September 2017
+
+**Today's Progress:** Finished off my RQG.
+
+**Thoughts:** loved how it came out.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 32: 16 September 2017
+
 **Today's Progress:** Final chnages to my Random Quote Generator.
 
 **Thoughts:** Continued to work on my RQG and will finalise it tomorrow. It is coming along very well. Kept it as simple as possible. Today was a good day.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 33: 17 September 2017
+
+**Today's Progress:** Worked on some code for my Weather App and looked at some ideas.
+
+**Thoughts:** There are different ways to attack the same problem and one has to find the right way for them and to also ask those who have done it before for assistance.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 34: 18 September 2017
+
+**Today's Progress:** Started working on the actual code on my Weather App but struggled to get my JavaScript to work and I think it has something to do with my jQuery but I will work on that issue tomorrow..  
+
+**Thoughts:** Loving what I am learning but it can also be very frustrating when things don't work out the way they should but that is part of the journey and I will get used to it.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
