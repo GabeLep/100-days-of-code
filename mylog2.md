@@ -280,3 +280,27 @@ Tomorrow I continue.
 **Thoughts:** Loving what I am learning but it can also be very frustrating when things don't work out the way they should but that is part of the journey and I will get used to it.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 35: 19 September 2017
+
+**Today's Progress:** Still frustrated with my JS not working and thinking of what to do to make it work better. 
+
+**Thoughts:** It can get very frustrating when your code does not work but there is a great community out to support you at any time.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 36: 20 September 2017
+
+**Today's Progress:** NONE. 
+
+**Thoughts:** Was and still exhausted and having an early morning tomorrow. I figured that rest was in order as I have been overworking this past week.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
+
+### Day 37: 21 September 2017
+
+**Today's Progress:** Change my approach for my Weather App, technically started again. 
+
+**Thoughts:** Needed da new way to look at it and this time the HTML, CSS and JS are connected and working so I am happy with that regard. Tomorrow I tackle the heart of the App.
+
+**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.com/gabelep)
